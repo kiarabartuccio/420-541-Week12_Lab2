@@ -34,7 +34,7 @@ namespace KartGame.KartSystems
                 if (ak != null)
                 {
                     ak.AddPowerup(powerup);
-                }
+                } 
 
                 // UNCOMMENT THIS 
             }
